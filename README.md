@@ -22,4 +22,4 @@ The idea is to take each sample from each class and find its nearest neighbour u
 We evaluate four algorithms: gzip, Huffman coding, LZ77 (LZ4 to be precise) and bzip2 (just the first two stages of bzip2: BWT + MFT).
 
 The results of the experiment are shown below:
-![Results](https://github.com/abhinav-upadhyay/lz77_is_all_you_need/blob/2388cb60ea93286127228a9145bef91482b5fbad/results.png)
+![Results](https://github.com/abhinav-upadhyay/lz77_is_all_you_need/blob/490e4d3b16c72cfb3c5c2bde75c14f6420514313/results.png)
