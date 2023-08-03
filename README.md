@@ -1,4 +1,5 @@
 # LZ77 Is All You Need for Text Classification?
+This repo contains code for the article [LZ77 Is All You Need? Why Gzip + KNN Works for Text Classification](https://codeconfessions.substack.com/p/lz77-is-all-you-need)
 
 A paper published at ACL 2023 showed that using gzip compression in combination with k-nearest neighbours
 for text classification achieves near state-of-the-art performance on many benchmarks.
